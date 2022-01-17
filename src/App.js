@@ -4,7 +4,7 @@ import PageHeading from "./PageHeading.js";
 function App() {
   const torontoMapleLeafs = {
     id: 1,
-    name: "Toronto Maple Leafs",
+    name: "Toronto Maple Leafs 🍁",
     city: "Toronto",
     stadium: {
       name:"Air Canada Center",
